@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/switchledstate.uf2'
+elf = 'build/switchledstate.elf'
